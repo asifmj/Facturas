@@ -6,7 +6,12 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="asifmj1984" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/asifmj1984/fiestasxixona.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Asif\Desktop" />
   </component>
 </application>
